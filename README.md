@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AviWine
-- 👀 I’m interested in classic novels, talmud and rock climbing.
-- 🌱 I’m currently learning Mathematics @ UCL 
+- 👀 I’m a fan of classic novels, 'true' liberal econ theory, talmud and rock climbing.
+- 🌱 Currently studying Mathematics @ UCL 
 - 💞️ I’m looking to collaborate on any coding project really.
 <!---
 AviWine/AviWine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
